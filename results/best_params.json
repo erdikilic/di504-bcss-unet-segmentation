@@ -1,0 +1,8 @@
+{
+  "lr": 9.218308270835315e-05,
+  "batch_size": 16,
+  "weight_decay": 5.281012033919592e-06,
+  "optimizer": "Adam",
+  "loss_fn": "ce_dice",
+  "best_dice": 0.609036368424071
+}

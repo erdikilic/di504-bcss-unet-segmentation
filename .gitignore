@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights / data (not versioned — see README)
+*.pth
+*.pt
+*.ckpt
+data/
+checkpoints/
+
+# OS
+.DS_Store
+
+# External-generalization scripts (kept local, not part of the submission)
+scripts/

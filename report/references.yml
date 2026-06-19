@@ -1,0 +1,117 @@
+ronneberger2015:
+  type: article
+  title: "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+  author:
+    - Ronneberger, Olaf
+    - Fischer, Philipp
+    - Brox, Thomas
+  date: 2015
+  parent:
+    type: proceedings
+    title: "Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015"
+    publisher: Springer
+  page-range: 234-241
+  doi: "10.1007/978-3-319-24574-4_28"
+
+amgad2019:
+  type: article
+  title: "Structured crowdsourcing enables convolutional segmentation of histology images"
+  author:
+    - Amgad, Mohamed
+    - Elfandy, Habiba
+    - Hussein, Hagar
+    - Atteya, Lamees A.
+    - Elsebaie, Mai A. T.
+    - Abo Elnasr, Lamia S.
+    - Sakr, Rokia A.
+    - Salem, Hazem S. E.
+    - Ismail, Ahmed F.
+    - Saber, Anas M.
+    - Elmasry, Maha
+    - Gutman, David A.
+    - Cooper, Lee A. D.
+  date: 2019
+  parent:
+    type: periodical
+    title: Bioinformatics
+    volume: 35
+    issue: 18
+  page-range: 3461-3467
+  doi: "10.1093/bioinformatics/btz083"
+
+drioua2023:
+  type: article
+  title: "Breast Cancer Histopathological Images Segmentation Using Deep Learning"
+  author:
+    - Drioua, Wafaa Rajaa
+    - Benamrane, Nacéra
+    - Sais, Lakhdar
+  date: 2023
+  parent:
+    type: periodical
+    title: Sensors
+    volume: 23
+    issue: 17
+  page-range: 7318
+  doi: "10.3390/s23177318"
+
+buslaev2020:
+  type: article
+  title: "Albumentations: Fast and Flexible Image Augmentations"
+  author:
+    - Buslaev, Alexander
+    - Iglovikov, Vladimir I.
+    - Khvedchenya, Eugene
+    - Parinov, Alex
+    - Druzhinin, Mikhail
+    - Kalinin, Alexandr A.
+  date: 2020
+  parent:
+    type: periodical
+    title: Information
+    volume: 11
+    issue: 2
+  page-range: 125
+  doi: "10.3390/info11020125"
+
+akiba2019:
+  type: article
+  title: "Optuna: A Next-generation Hyperparameter Optimization Framework"
+  author:
+    - Akiba, Takuya
+    - Sano, Shotaro
+    - Yanase, Toshihiko
+    - Ohta, Takeru
+    - Koyama, Masanori
+  date: 2019
+  parent:
+    type: proceedings
+    title: "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+    publisher: ACM
+  page-range: 2623-2631
+  doi: "10.1145/3292500.3330701"
+
+naylor2019:
+  type: article
+  title: "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map"
+  author:
+    - Naylor, Peter
+    - Laé, Marick
+    - Reyal, Fabien
+    - Walter, Thomas
+  date: 2019
+  parent:
+    type: periodical
+    title: IEEE Transactions on Medical Imaging
+    volume: 38
+    issue: 2
+  page-range: 448-459
+  doi: "10.1109/TMI.2018.2865709"
+
+tiger2022:
+  type: web
+  title: "TIGER: Tumor InfiltratinG lymphocytes in breast cancER, Challenge Tissue Segmentation Dataset"
+  author:
+    - "TIGER Challenge Consortium"
+  date: 2022
+  url: "https://tiger.grand-challenge.org"
