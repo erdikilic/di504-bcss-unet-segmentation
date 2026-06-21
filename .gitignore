@@ -20,3 +20,7 @@ checkpoints/
 
 # External-generalization scripts (kept local, not part of the submission)
 scripts/
+
+# Local packaging artifact and helper note (not versioned)
+erdikilic-2354629-final-deliverables.zip
+github_repo.txt

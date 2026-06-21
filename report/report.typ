@@ -633,7 +633,10 @@ one notebook per variant trains and evaluates the model, all under a single fixe
 seed so the patient-level split is identical across runs. We do not ship the
 trained weights or the dataset, since both are large; the dataset is the public
 BCSS release and can be downloaded from its original location. These materials
-accompany this report as the code deliverable.
+accompany this report as the code deliverable and are openly available at #{
+  show link: set text(fill: rgb("#1a56db"))
+  link("https://github.com/erdikilic/di504-bcss-unet-segmentation")
+}.
 
 = Conclusion
 
